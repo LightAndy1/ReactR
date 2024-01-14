@@ -1,0 +1,32 @@
+{
+  "name": "reactr",
+  "version": "1.0.0",
+  "description": "A Discord Bot for reacting with ✅ and ❌ in specific channels.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightAndy1/ReactR.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "reacting",
+    "suggestions"
+  ],
+  "author": "LightAndy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LightAndy1/ReactR/issues"
+  },
+  "homepage": "https://github.com/LightAndy1/ReactR#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.4",
+    "nodemon": "^3.0.2"
+  }
+}
